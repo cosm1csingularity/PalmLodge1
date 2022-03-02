@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83894098891",
+    "project_id": "palm-lodge-48c23",
+    "storage_bucket": "palm-lodge-48c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83894098891:android:7c560df630022f9260744e",
+        "android_client_info": {
+          "package_name": "com.my.hc.rpg.kingdom.simulatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83894098891-a0ll37ub32has92e8k8afjllccht9ifm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJL8evaYm1uB73-9SD2GV3Vp4MAFsKw-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83894098891-a0ll37ub32has92e8k8afjllccht9ifm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
